@@ -1,0 +1,7 @@
+numpy>=2.0
+rustworkx>=0.15
+tqdm>=4.60
+
+# Optional: enables the LLM macro-loop (Groq API). Ollama is accessed over HTTP
+# and needs no Python package.
+groq>=1.0
