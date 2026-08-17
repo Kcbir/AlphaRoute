@@ -124,10 +124,14 @@ If AlphaRoute is useful in your work:
 
 ```bibtex
 @inproceedings{murjani2026alpharoute,
-  title     = {AlphaRoute: Large Language Models as Semantic Optimizers for Multi-Objective Routing},
-  author    = {Murjani, Kabir and Bhavsar, Mishri and Patel, Manish I. and Talukdar, Jonti},
-  booktitle = {IEEE LAD},
-  year      = {2026}
+      title={AlphaRoute: Large Language Models as Semantic Optimizers for Multi-Objective Routing}, 
+      author={Murjani, Kabir and Bhavsar, Mishri and Patel, Manish I. and Talukdar, Jonti},
+      conference = {2026 IEEE International Conference on LLM-Aided Design, 2026, Stanford University, Stanford, CA, USA}
+      year={2026},
+      eprint={2607.19768},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2607.19768}, 
 }
 ```
 
